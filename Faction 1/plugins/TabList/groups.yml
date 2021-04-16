@@ -1,0 +1,67 @@
+groups:
+  exampleGroup:
+    prefix: '&a[&cStaff&a]&6 '
+    suffix: '&7 <12>'
+  Default:
+    prefix: '&7'
+  Admin:
+    prefix: '&7<62>&r %anim:Admin%'
+    suffix: '&7 <62>'
+    sort-priority: 0
+  PlayerName:
+    prefix: '&a[MyGroup]&7'
+    sort-priority: 1
+  administrateur:
+    prefix: '&a'
+    suffix: '&3'
+  domination:
+    prefix: '&e'
+    suffix: '&b'
+  responsable:
+    prefix: '&2'
+    suffix: '&9'
+  youtubeur:
+    prefix: '&3'
+    suffix: '&7'
+  ange:
+    prefix: '&3'
+    suffix: '&r'
+  helpeur:
+    prefix: '&m'
+    suffix: '&a'
+  séraphins:
+    prefix: '&o'
+    suffix: '&9'
+  super-modérateur:
+    prefix: '&k'
+    suffix: '&n'
+  modérateur:
+    prefix: '&4'
+    suffix: '&1'
+  archange:
+    prefix: '&b'
+    suffix: '&2'
+  thrones:
+    prefix: '&1'
+    suffix: '&6'
+  principauté:
+    prefix: '&m'
+    suffix: '&4'
+  vertus:
+    prefix: '&9'
+    suffix: '&9'
+  développeur:
+    prefix: '&6'
+    suffix: '&7'
+  puissance:
+    prefix: '&e'
+    suffix: '&8'
+  mini-youtubeur:
+    prefix: '&0'
+    suffix: '&d'
+  chérubins:
+    prefix: '&r'
+    suffix: '&3'
+  modérateur-joueur:
+    prefix: '&m'
+    suffix: '&3'

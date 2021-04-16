@@ -1,0 +1,104 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1Choisissez le serveur !'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: ''
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: compass
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+stained_glass_pane1:
+  ID: stained_glass_pane
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+stained_glass_pane2:
+  ID: stained_glass_pane
+  POSITION-X: 2
+  POSITION-Y: 1
+
+stained_glass_pane3:
+  ID: stained_glass_pane
+  POSITION-X: 3
+  POSITION-Y: 1
+
+Lobby:
+  ID: diamond
+  POSITION-X: 4
+  POSITION-Y: 1
+  NAME: '&1Allez à un autre Lobby'
+  LORE:
+    - '&1Lobby1'
+    - '&eLobby2 &c(OFFLINE)'
+  COMMAND: server lobby
+
+Faction1:
+  ID: diamond_pickaxe
+  POSITION-X: 5
+  POSITION-Y: 1
+  NAME: '&1Allez au serveur Faction'
+  LORE:
+    - '&1Faction 1'
+    - '&eServeur en &4Bêta'
+  COMMAND: server faction1
+
+Minage1:
+  ID: diamond_pickaxe
+  POSITION-X: 6
+  POSITION-Y: 1
+  NAME: '&1Allez au serveur Minage'
+  LORE:
+    - '&1Minage 1'
+    - '&eServeur en &4Bêta'
+  COMMAND: server minage1
+
+stained_glass_pane7:
+  ID: stained_glass_pane
+  POSITION-X: 7
+  POSITION-Y: 1
+
+stained_glass_pane8:
+  ID: stained_glass_pane
+  POSITION-X: 8
+  POSITION-Y: 1
+
+stained_glass_pane9:
+  ID: stained_glass_pane
+  POSITION-X: 9
+  POSITION-Y: 1
+
+

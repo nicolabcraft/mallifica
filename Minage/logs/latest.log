@@ -1,0 +1,4 @@
+[12:06:46] [User Authenticator #1/INFO]: UUID of player Zuygui is 8a850ae1-4b05-3a5f-af07-5968f09bcf04
+[12:06:49] [Netty Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[12:06:51] [Server thread/INFO]: Zuygui[/78.211.168.186:63680] logged in with entity id 749 at ([world]343.27738906532346, 78.98831181861694, 594.0519001657019)
+[12:07:16] [Server thread/INFO]: Zuygui issued server command: /spawn

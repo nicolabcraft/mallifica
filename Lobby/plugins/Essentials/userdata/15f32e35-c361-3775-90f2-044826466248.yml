@@ -1,0 +1,20 @@
+lastAccountName: bonserveurnon
+timestamps:
+  login: 1618514277373
+  logout: 1618515577342
+ipAddress: 81.242.80.110
+lastlocation:
+  world: world
+  x: 15.5
+  y: 16.100000381469727
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 0.300000011920928
+  y: 6.0
+  z: -80.30000001192093
+  yaw: 238.41467
+  pitch: 31.118595
+afk: false

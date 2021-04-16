@@ -1,0 +1,22 @@
+lastAccountName: sNeatX
+timestamps:
+  login: 1618514340301
+  logout: 1618516972415
+  lastteleport: 1618514581833
+ipAddress: 90.63.28.107
+logoutlocation:
+  world: world
+  x: 26.004479535777147
+  y: 15.24150136792814
+  z: -39.53078179484513
+  yaw: -164.57758
+  pitch: 42.749752
+lastlocation:
+  world: world
+  x: 15.930239667140306
+  y: 14.0
+  z: 7.1038421372087965
+  yaw: -72.89998
+  pitch: 21.149994
+afk: false
+godmode: false

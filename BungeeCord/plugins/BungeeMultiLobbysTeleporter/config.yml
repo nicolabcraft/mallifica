@@ -1,0 +1,27 @@
+# The message that a player will see when he execute /lobby or /hub
+# You can type {SERVER} to say the server to which the player has been teleported.
+message: '&6You have been teleported to {SERVER}!'
+
+# A player who is already connected to one of your lobby servers will see this message.
+# Also, you can type {SERVER} to say the server to which the player has been teleported.
+already-connected: '&cYou are already connected to this server!'
+
+# The message that a player will receive if there aren't any lobby servers online.
+no-servers-avaiable: '&cThere aren''t lobby servers avaiable for now!'
+
+# Here you must put the lobby server/s.
+# If there are multiple servers, the player will be teleported randomly to one of them.
+lobby-servers:
+  - 'lobby1'
+  - 'lobby2'
+  
+# Here you can disable the /lobby and /hub commands on specefic servers.
+disabled-servers:
+  - 'prelobby1'
+  - 'prelobby2'  
+
+# This is the message that a player can see if execute /lobby or /hub on a disabled server.
+disabled-server-message: '&cYou cannot use this command on {SERVER}!'
+
+# You will be noticed if the plugin receive one update.
+update-checker: true

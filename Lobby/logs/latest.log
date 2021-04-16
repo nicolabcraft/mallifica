@@ -1,0 +1,34 @@
+[10:35:06] [User Authenticator #1/INFO]: UUID of player Zuygui is 8a850ae1-4b05-3a5f-af07-5968f09bcf04
+[10:35:07] [Netty Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[10:35:08] [Server thread/INFO]: Zuygui[/78.211.168.186:62524] logged in with entity id 59 at ([world]16.813879083105014, 12.944365768956814, -85.07272622101503)
+[10:36:55] [Server thread/INFO]: Zuygui issued server command: /lag clear
+[10:37:38] [Server thread/WARN]: Zuygui moved too quickly! 0.39663497668945524,0.0,17.730770511955072
+[10:37:43] [Server thread/WARN]: Zuygui moved too quickly! -0.13773753072215555,0.0,26.765461906307493
+[10:37:47] [Server thread/WARN]: [ChestCommands] §cInvalid sound "note pling".
+[10:37:51] [Server thread/WARN]: [ChestCommands] §cInvalid sound "note pling".
+[10:39:05] [Server thread/WARN]: [ChestCommands] §cInvalid sound "note pling".
+[10:40:46] [Server thread/INFO]: Zuygui issued server command: /time set day
+[10:43:52] [Server thread/INFO]: Zuygui issued server command: //paste
+[10:44:16] [Server thread/INFO]: Zuygui issued server command: /set
+[10:49:01] [Server thread/INFO]: Zuygui issued server command: /crate settings
+[10:49:13] [Server thread/INFO]: Zuygui issued server command: /crates
+[10:52:29] [Server thread/INFO]: Zuygui issued server command: /time set day
+[11:06:28] [Server thread/INFO]: Zuygui issued server command: /time set day
+[11:08:10] [Server thread/INFO]: Zuygui issued server command: /crate
+[11:08:13] [Server thread/INFO]: Zuygui issued server command: /crates
+[11:08:26] [Server thread/INFO]: Zuygui issued server command: /crate settings
+[11:08:30] [Server thread/WARN]: [ChestCommands] §cInvalid sound "note pling".
+[11:08:33] [Server thread/INFO]: Zuygui lost connection: Disconnected
+[11:08:33] [Server thread/INFO]: Zuygui left the game
+[11:12:38] [User Authenticator #2/INFO]: UUID of player Zuygui is 8a850ae1-4b05-3a5f-af07-5968f09bcf04
+[11:12:38] [Netty Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[11:12:38] [Server thread/INFO]: Zuygui[/78.211.168.186:63054] logged in with entity id 411255 at ([world]30.622296366433982, 16.705379145745034, -2.7910478148065714)
+[11:15:14] [Server thread/INFO]: Zuygui issued server command: /clear
+[11:17:04] [Server thread/INFO]: Zuygui issued server command: /crate key Zuygui emeraude
+[11:17:10] [Server thread/INFO]: Zuygui issued server command: /craft
+[11:17:34] [Server thread/INFO]: Zuygui issued server command: /crate key Zuygui emeraude
+[11:17:51] [Server thread/INFO]: Zuygui issued server command: /crate crate emeraude
+[11:17:56] [Server thread/INFO]: Zuygui issued server command: /crate crate or
+[11:17:59] [Server thread/INFO]: Zuygui issued server command: /crate
+[11:18:07] [Server thread/INFO]: Zuygui lost connection: Disconnected
+[11:18:07] [Server thread/INFO]: Zuygui left the game

@@ -1,0 +1,23 @@
+lastAccountName: Zuygui
+timestamps:
+  login: 1618564358930
+  logout: 1618564687242
+  kits:
+    notch: 1618422464950
+  mute: 0
+ipAddress: 78.211.168.186
+logoutlocation:
+  world: world
+  x: 16.075138573040853
+  y: 20.080344135945133
+  z: -0.6508813704768928
+  yaw: -194.8688
+  pitch: 27.599998
+lastlocation:
+  world: world
+  x: -3.733487040893986
+  y: 17.0
+  z: -38.99963231142845
+  yaw: 165.12329
+  pitch: 75.00003
+muted: false
